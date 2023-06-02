@@ -28,4 +28,4 @@ Frontend Mentor challenges help you improve your coding skills by building reali
 ### Links
 
 - Solution URL: [Stat Preview Card Component Solution](https://www.frontendmentor.io/solutions/stats-preview-card-YbQl42Rgic)
-- Live Site URL: [QR Component](https://waldir07.github.io/frontendchallenge-stats/)
+- Live Site URL: [Stat Preview Component](https://brycezubi.github.io/Stats-Preview-Card/)
